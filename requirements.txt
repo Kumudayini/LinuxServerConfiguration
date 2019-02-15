@@ -1,0 +1,8 @@
+httplib2
+requests
+--upgrade oauth2client
+sqlalchemy
+flask
+libpq-dev
+psycopg2
+bleach
